@@ -11,3 +11,4 @@ Hiệu ứng trái tim bay (Animation): Tích hợp thuật toán vẽ cung trò
 Popup ngẫu nhiên: Tự động sinh ra hàng loạt cửa sổ nhỏ tại các tọa độ ngẫu nhiên trên toàn bộ màn hình với độ trễ (delay) mượt mà.
 
 Nút bấm định mệnh: Nút tương tác chính "Anh Muốn nói là..." được đặt ở trung tâm, sẵn sàng kích hoạt chuỗi hiệu ứng.
+<img width="1487" height="868" alt="image" src="https://github.com/user-attachments/assets/a95b3e54-e48a-4835-b509-0883b775ae57" />
